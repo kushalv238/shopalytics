@@ -1,0 +1,127 @@
+footer {
+    position: absolute;
+    width: 100%;
+    padding: 50px 0px;
+    background: #393536;
+    background: black;
+    color: white;
+}
+
+footer >* a:hover {
+    color: var(--clr-secondary) !important;
+}
+
+.footer-wrapper {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.footer-grider {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    grid-gap: 25px;
+}
+
+.footer-columns {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    /* margin-left: 60px; */
+    width: 90%;
+    gap: 1rem;
+}
+
+.socialsList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.socialsList .footerLinks {
+    padding: 0.7rem;
+    border: 1px solid rgba(255, 255, 255, 0.507);
+    border-radius: 50%;
+    transform: scale(0.8);
+}
+
+.footerDesc, 
+.footerDesc * {
+    color: rgba(255, 255, 255, 0.507);
+}
+
+.footerLinks {
+    display: inline-block;
+
+    color: rgba(255, 255, 255, 0.507);
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-decoration: none;
+
+    line-height: 1rem;
+}
+
+.footerLinks :hover {
+    color: var(--clr-secondary) !important;
+}
+
+#eventsDropDown {
+    background: none;
+    border: none;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.507);
+}
+
+#dropDownItems > * {
+    display: block;
+    margin: 0.5rem;
+}
+
+#dropDownItem {
+    color: rgba(255, 255, 255, 0.507);
+}
+
+@media only screen and (max-width: 1550px) {
+    .footer-wrapper {
+        width: 90%;
+    }
+    .footer-grider {
+        grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    }
+}
+
+@media only screen and (max-width: 1230px) {
+    .footer-grider {
+        grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    .footer-wrapper {
+        width: 95%;
+    }
+    footer * {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 514px) {
+    .footer-grider {
+        text-align: center;
+    }
+    .footer-links {
+        display: table-column !important;
+        flex-wrap: wrap;
+    }
+    .footer-links > a,
+    .footer-links > div {
+        width: 40%;
+    }
+    .footer-columns {
+        width: 95%;
+    }
+}

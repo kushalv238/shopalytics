@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Nunito+Sans:wght@300&family=Nunito:wght@500&display=swap');
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+
+    box-sizing: border-box;
+}
+
+:root {
+    --clr-primary: #4ebfa7;
+    --clr-secondary: #4ebfa7;
+    --clr-ternary: dodgerblue;
+
+    --clr-day: white;
+    --clr-night: black;
+
+    /* --clr-day: black;
+    --clr-night: white; */
+}
+
+body {
+    /* font-family: 'DM Sans', sans-serif;
+    font-family: 'Nunito', sans-serif; */
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: var(--clr-day);
+}
+
+a {
+    color: var(--clr-ternary);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+}
+
+
+/* Utility Classes */
+
+.hide {
+    transition: all 2s ease-in-out;
+    display: none !important;
+}
+
+.heading {
+    font-size: 24px;
+    color: inherit;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.cool-looking-underline {
+    box-shadow: rgb(121, 217, 255) 0px -8px 0px inset;
+}
+
+.button {
+    padding: 0.8rem 1.8rem;
+
+    border-radius: 0.4rem;
+    
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
