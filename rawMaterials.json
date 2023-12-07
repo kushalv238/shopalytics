@@ -1,0 +1,289 @@
+[
+    {
+        "Id": 1,
+        "Name": "Recycled Paper",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.3
+    },
+    {
+        "Id": 2,
+        "Name": "Organic Cotton",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 2.4
+    },
+    {
+        "Id": 3,
+        "Name": "Bamboo",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 1.2
+    },
+    {
+        "Id": 4,
+        "Name": "Solar Panels",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.2
+    },
+    {
+        "Id": 5,
+        "Name": "Recycled Glass",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.4
+    },
+    {
+        "Id": 6,
+        "Name": "Upcycled Denim",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 2.1
+    },
+    {
+        "Id": 7,
+        "Name": "Organic Fruits",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.7
+    },
+    {
+        "Id": 8,
+        "Name": "Biodegradable Fabric",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 1.8
+    },
+    {
+        "Id": 9,
+        "Name": "Sustainably Sourced Wood",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 1.0
+    },
+    {
+        "Id": 10,
+        "Name": "Recycled Plastic Bottles",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.6
+    },
+    {
+        "Id": 11,
+        "Name": "Coffee Beans",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 2.7
+    },
+    {
+        "Id": 12,
+        "Name": "Beeswax",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.3
+    },
+    {
+        "Id": 13,
+        "Name": "Steel Structure",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 4.5
+    },
+    {
+        "Id": 14,
+        "Name": "Recycled PET Bottles",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.8
+    },
+    {
+        "Id": 15,
+        "Name": "Natural Rubber",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 1.9
+    },
+    {
+        "Id": 16,
+        "Name": "Solar Panels",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.2
+    },
+    {
+        "Id": 17,
+        "Name": "Organic Herbs",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.6
+    },
+    {
+        "Id": 18,
+        "Name": "Recycled Plastic",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.9
+    },
+    {
+        "Id": 19,
+        "Name": "Cocoa Beans",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 2.2
+    },
+    {
+        "Id": 20,
+        "Name": "Stainless Steel",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 3.0
+    },
+    {
+        "Id": 21,
+        "Name": "Aluminum Housing",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 2.5
+    },
+    {
+        "Id": 22,
+        "Name": "Biodegradable Plant-Based PLA",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 1.2
+    },
+    {
+        "Id": 23,
+        "Name": "Recycled Cardboard",
+        "Source": "Local",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.5
+    },
+    {
+        "Id": 24,
+        "Name": "Cotton Fabric",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 2.9
+    },
+    {
+        "Id": 25,
+        "Name": "Organic Honey",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 0.6
+    },
+    {
+        "Id": 26,
+        "Name": "Bamboo",
+        "Source": "Global",
+        "EcoFriendly": true,
+        "CarbonFootprint": 1.2
+    },
+    {
+        "Id": 27,
+        "Name": "Plastic Housing",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 4.3
+    },
+    {
+        "Id": 28,
+        "Name": "Metal LId",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 3.8
+    },
+    {
+        "Id": 29,
+        "Name": "Wicker Basket",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 2.6
+    },
+    {
+        "Id": 30,
+        "Name": "Natural Cleaning Solution",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 1.4
+    },
+    {
+        "Id": 31,
+        "Name": "Plastic Casing",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 3.9
+    },
+    {
+        "Id": 32,
+        "Name": "Nylon Straps",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 2.7
+    },
+    {
+        "Id": 33,
+        "Name": "Electric Components",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 4.8
+    },
+    {
+        "Id": 34,
+        "Name": "Metal Frame",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 3.5
+    },
+    {
+        "Id": 35,
+        "Name": "Water Filtration System",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 4.8
+    },
+    {
+        "Id": 36,
+        "Name": "Recycled Aluminum",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 3.0
+    },
+    {
+        "Id": 37,
+        "Name": "Screw Cap",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 2.2
+    },
+    {
+        "Id": 38,
+        "Name": "Eco-Friendly PVC",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 3.7
+    },
+    {
+        "Id": 39,
+        "Name": "Metal Casing",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 4.0
+    },
+    {
+        "Id": 40,
+        "Name": "Nylon Fabric",
+        "Source": "Global",
+        "EcoFriendly": false,
+        "CarbonFootprint": 2.9
+    },
+    {
+        "Id": 41,
+        "Name": "Cleaning Brush",
+        "Source": "Local",
+        "EcoFriendly": false,
+        "CarbonFootprint": 2.5
+    }
+]
